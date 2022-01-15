@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "T-Base",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

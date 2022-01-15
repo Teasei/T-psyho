@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "93797d9c86f25f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c367cc6c0fba1f",
+        "type": "leaf",
+        "dimension": 50.07936507936508,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Безусловная любовь.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "a64f2d17b7786c57"
+      },
+      {
+        "id": "0681a9c888762ab4",
+        "type": "leaf",
+        "dimension": 49.92063492063492,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Безусловная любовь.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "a64f2d17b7786c57"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4dd03702397a325",
+    "type": "split",
+    "children": [
+      {
+        "id": "050da64d5b75fce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd02e20d1c5eee36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a3029ac1d80f630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#openGL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0599fa414d63f6ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0cd5dc8d692a4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d14c9981425c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7045d91f3f2de872",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Безусловная любовь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e744dabf4c219b26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b414458f31b3bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Безусловная любовь.md"
+              }
+            }
+          },
+          {
+            "id": "3d85d521972820d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "473bd803c8ad58e0",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "45c367cc6c0fba1f",
+  "lastOpenFiles": [
+    "Безусловная любовь.md",
+    "Безусловная любовь.md",
+    "Template/0 Note template.md",
+    "Template/0 Note template 1.md",
+    "T-Base/Not empty links.md",
+    "T-Base/my first file.md",
+    "T-Base/00 Productivity.md",
+    "Daily/2021-10-22.md",
+    "T-Base/Rules.md",
+    "T-Base/tips Obsidian.md"
+  ]
+}
