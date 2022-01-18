@@ -6,30 +6,14 @@
       {
         "id": "45c367cc6c0fba1f",
         "type": "leaf",
-        "dimension": 50.07936507936508,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Безусловная любовь.md",
+            "file": "Синдром упущенной выгоды.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "a64f2d17b7786c57"
-      },
-      {
-        "id": "0681a9c888762ab4",
-        "type": "leaf",
-        "dimension": 49.92063492063492,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Безусловная любовь.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "a64f2d17b7786c57"
+        }
       }
     ],
     "direction": "vertical"
@@ -93,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Безусловная любовь.md",
+                "file": "Синдром упущенной выгоды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Безусловная любовь.md"
+                "file": "Синдром упущенной выгоды.md"
               }
             }
           },
@@ -149,15 +133,15 @@
   },
   "active": "45c367cc6c0fba1f",
   "lastOpenFiles": [
-    "Безусловная любовь.md",
-    "Безусловная любовь.md",
-    "Template/0 Note template.md",
-    "Template/0 Note template 1.md",
-    "T-Base/Not empty links.md",
-    "T-Base/my first file.md",
-    "T-Base/00 Productivity.md",
-    "Daily/2021-10-22.md",
-    "T-Base/Rules.md",
-    "T-Base/tips Obsidian.md"
+    "Синдром упущенной выгоды.md",
+    "Теория реализационных намерении.md",
+    "Обучение.md",
+    "Границы. Зона. Круги.md",
+    "Быть в моменте.md",
+    "Позитивные мыли.md",
+    "Вин Хофф.md",
+    "Остановка мысли.md",
+    "Минадлина мозга.md",
+    "Негативные мысли.md"
   ]
 }
