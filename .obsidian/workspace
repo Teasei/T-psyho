@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "45c367cc6c0fba1f",
+        "id": "4df8a265495a88f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Самооценка Увереность.md",
+            "file": "Коммуникация.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 300
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Самооценка Увереность.md",
+                "file": "Коммуникация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Самооценка Увереность.md"
+                "file": "Коммуникация.md"
               }
             }
           },
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "45c367cc6c0fba1f",
+  "active": "4df8a265495a88f5",
   "lastOpenFiles": [
+    "Коммуникация.md",
+    "Ассертивность.md",
     "Самооценка Увереность.md",
-    "Депрессия.md",
-    "Тревога.md",
-    "Вещества.md",
+    "ru.wikipedia.org/wiki/Ассертивность.md",
+    "Аффирмации.md",
+    "Безусловная любовь.md",
     "Беспокойство.md",
-    "Позитивные мыли.md",
-    "Остановка мысли.md",
-    "Отдых.md",
-    "Любовь к себе.md",
-    "Отношение.md"
+    "Быть в моменте.md",
+    "Untitled.md",
+    "Долг.md"
   ]
 }
