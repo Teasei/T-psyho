@@ -6,5 +6,6 @@
   "attachmentFolderPath": "T-Base",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "fileSortOrder": "alphabetical"
 }

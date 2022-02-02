@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коммуникация.md",
+            "file": "Быть в моменте.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Коммуникация.md",
+                "file": "Быть в моменте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Коммуникация.md"
+                "file": "Быть в моменте.md"
               }
             }
           },
@@ -133,15 +133,15 @@
   },
   "active": "4df8a265495a88f5",
   "lastOpenFiles": [
-    "Коммуникация.md",
-    "Ассертивность.md",
-    "Самооценка Увереность.md",
-    "ru.wikipedia.org/wiki/Ассертивность.md",
-    "Аффирмации.md",
-    "Безусловная любовь.md",
-    "Беспокойство.md",
     "Быть в моменте.md",
-    "Untitled.md",
-    "Долг.md"
+    "Счастье PERMA.md",
+    "Базовые навыки психики.md",
+    "Ассертивность.md",
+    "Обучение.md",
+    "Выбор; Решение.md",
+    "Тревога.md",
+    "Коммуникация.md",
+    "Друзья.md",
+    "Социальность.md"
   ]
 }
