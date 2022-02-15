@@ -7,8 +7,12 @@
         "id": "4df8a265495a88f5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Экзистенциальная  психология.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Миндалин",
+                "query": "tag:#openGL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 287
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -122,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 300
   },
   "active": "4df8a265495a88f5",
   "lastOpenFiles": [
-    "Фаза быстрого сна.md",
-    "Pasted image 20220215141545.png",
-    "Мозг и его ритмы.md",
-    "Untitled.md",
+    "Files/Гипнотическая индукция на расслабление и концентрацию внимания. Погружение в медитацию и гипноз.mp4",
+    "Хвала Комплименты.md",
+    "Коммуникация.md",
+    "Отношение.md",
+    "Самооценка Увереность.md",
+    "Мышечная релаксация.md",
     "Медитация.md",
-    "Гиппокамп.md",
-    "Нейроглия. Глия.md",
-    "Синапсис.md",
-    "Нейротрансмиссия.md",
-    "IQ.md"
+    "Мотивация.md",
+    "Осознаность.md",
+    "Бессознательное Подсознание.md"
   ]
 }
