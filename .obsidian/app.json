@@ -3,9 +3,11 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "Base",
-  "attachmentFolderPath": "T-Base",
+  "attachmentFolderPath": "T-Psyho",
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "foldHeading": true,
+  "foldIndent": true
 }

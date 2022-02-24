@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4df8a265495a88f5",
+        "id": "c5a8108ccabc99db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Эмоции.md",
-            "mode": "source",
-            "source": false
+            "file": "Files/Amygdala.gif"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Эмоции.md",
+                "file": "Files/Amygdala.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Эмоции.md"
+                "file": "Files/Amygdala.gif"
               }
             }
           },
@@ -118,7 +116,7 @@
             }
           },
           {
-            "id": "6ad6b35f686e19a3",
+            "id": "29eac8fdf9cac965",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -126,24 +124,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 303,
-    "collapsed": true
+    "width": 756
   },
-  "active": "4df8a265495a88f5",
+  "active": "c5a8108ccabc99db",
   "lastOpenFiles": [
-    "Эмоции.md",
-    "Спорт.md",
+    "Files/Amygdala.gif",
+    "Медитация пост.md",
     "Медитация.md",
+    "Мозг и его ритмы.md",
     "Гиппокамп -- Hippocampus.md",
-    "Боль.md",
-    "Striatum -- Полосатое тело.md",
-    "Нейроглия. Глия.md",
-    "Музыка.md",
-    "Files/music_Brain_synchonize.png",
-    "Кора больших полушарий -- Cerebral cortex.md"
+    "Метод когнетивной реструктуризации.md",
+    "Любовь к себе.md",
+    "Потребности.md",
+    "Эмоции.md",
+    "эмоции рецепторы чай.md"
   ]
 }
