@@ -7,9 +7,11 @@
         "id": "c5a8108ccabc99db",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/Amygdala.gif"
+            "file": "Сферы жизни.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Amygdala.gif",
+                "file": "Сферы жизни.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Amygdala.gif"
+                "file": "Сферы жизни.md"
               }
             }
           },
@@ -128,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 756
+    "width": 238
   },
   "active": "c5a8108ccabc99db",
   "lastOpenFiles": [
-    "Files/Amygdala.gif",
-    "Медитация пост.md",
-    "Медитация.md",
-    "Мозг и его ритмы.md",
-    "Гиппокамп -- Hippocampus.md",
-    "Метод когнетивной реструктуризации.md",
-    "Любовь к себе.md",
-    "Потребности.md",
+    "Сферы жизни.md",
+    "Родители.md",
+    "Отношение.md",
+    "Интерес.md",
+    "Эстрадиол.md",
+    "ГнРГ.md",
+    "Свободный тестостерон.md",
+    "Сератонин.md",
     "Эмоции.md",
-    "эмоции рецепторы чай.md"
+    "Files/Amygdala.gif"
   ]
 }

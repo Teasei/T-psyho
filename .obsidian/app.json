@@ -7,7 +7,7 @@
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "foldHeading": true,
   "foldIndent": true
 }
