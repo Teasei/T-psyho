@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сферы жизни.md",
+            "file": "Музыка.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 347
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сферы жизни.md",
+                "file": "Музыка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сферы жизни.md"
+                "file": "Музыка.md"
               }
             }
           },
@@ -130,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 243
   },
   "active": "c5a8108ccabc99db",
   "lastOpenFiles": [
+    "Музыка.md",
+    "Мозг потенциал.md",
+    "Чтение.md",
     "Сферы жизни.md",
     "Родители.md",
     "Отношение.md",
     "Интерес.md",
     "Эстрадиол.md",
     "ГнРГ.md",
-    "Свободный тестостерон.md",
-    "Сератонин.md",
-    "Эмоции.md",
-    "Files/Amygdala.gif"
+    "Свободный тестостерон.md"
   ]
 }
