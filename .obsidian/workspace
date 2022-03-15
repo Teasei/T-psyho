@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a8108ccabc99db",
+        "id": "2ede0cce800e41d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Музыка.md",
+            "file": "Тестостерон.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Музыка.md",
+                "file": "Тестостерон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Музыка.md"
+                "file": "Тестостерон.md"
               }
             }
           },
@@ -132,17 +132,17 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "c5a8108ccabc99db",
+  "active": "2ede0cce800e41d3",
   "lastOpenFiles": [
-    "Музыка.md",
-    "Мозг потенциал.md",
-    "Чтение.md",
-    "Сферы жизни.md",
-    "Родители.md",
-    "Отношение.md",
-    "Интерес.md",
-    "Эстрадиол.md",
-    "ГнРГ.md",
-    "Свободный тестостерон.md"
+    "Тестостерон.md",
+    "Эндокринная система.md",
+    "Нейромедиаторы.md",
+    "Ноотропы.md",
+    "Нейротрансмиссия.md",
+    "Эмоции.md",
+    "Яйчки.md",
+    "Семенники.md",
+    "Кортизол.md",
+    "Files/nihms-667134-f0001.jpg"
   ]
 }
