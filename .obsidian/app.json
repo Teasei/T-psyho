@@ -9,5 +9,10 @@
   "livePreview": true,
   "fileSortOrder": "byModifiedTime",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ]
 }

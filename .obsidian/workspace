@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f09fad1ec07ca76",
+        "id": "74254e05e786efdf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сератонин.md",
+            "file": "Печень.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Тестос",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 324
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сератонин.md",
+                "file": "Печень.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сератонин.md"
+                "file": "Печень.md"
               }
             }
           },
@@ -124,25 +124,38 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "b14c5daf3c37322a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Печень.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 197,
+    "collapsed": true
   },
-  "active": "3f09fad1ec07ca76",
+  "active": "74254e05e786efdf",
   "lastOpenFiles": [
-    "Сератонин.md",
-    "Нейропластичность.md",
-    "Медитация.md",
-    "Миелин.md",
-    "Нейроглия. Глия.md",
-    "Тревога.md",
-    "Беспокойство.md",
-    "Опасные вещества.md",
-    "Координация - Движение.md",
-    "Мозг потенциал.md"
+    "Печень.md",
+    "Template/0 Note template.md",
+    "Тестостерон.md",
+    "Андрогены.md",
+    "Магний.md",
+    "Витамин Д.md",
+    "Психосоматика.md",
+    "Витамины.md",
+    "FODMAP.md",
+    "Спирулина.md"
   ]
 }
