@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "74254e05e786efdf",
+        "id": "3959f5958e95263f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Печень.md",
+            "file": "Витамины.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Тестос",
+                "query": "семе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 274.5
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Печень.md",
+                "file": "Витамины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Печень.md"
+                "file": "Витамины.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Печень.md",
+                "file": "Витамины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +145,17 @@
     "width": 197,
     "collapsed": true
   },
-  "active": "74254e05e786efdf",
+  "active": "cd02e20d1c5eee36",
   "lastOpenFiles": [
-    "Печень.md",
-    "Template/0 Note template.md",
-    "Тестостерон.md",
-    "Андрогены.md",
-    "Магний.md",
-    "Витамин Д.md",
+    "Желудок.md",
+    "Изжога.md",
     "Психосоматика.md",
-    "Витамины.md",
+    "Расстройства.md",
+    "Проращивание.md",
+    "дискинезия желчевыводящих путей ДЖВП.md",
+    "Еда. Медленный прием пищи.md",
     "FODMAP.md",
-    "Спирулина.md"
+    "Фалистатин -- follistatin.md",
+    "Антинутриенты Фитин фитиновая кислота.md"
   ]
 }
