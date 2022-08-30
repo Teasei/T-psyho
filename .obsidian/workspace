@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f63c3181350b6353",
+        "id": "1fc9b4f157c85e36",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Желчь Желочный.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "продукты",
-                "matchingCase": false,
+                "query": "вздут",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 283.5
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Желчь Желочный.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Желчь Желочный.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Желчь Желочный.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +145,17 @@
     "width": 197,
     "collapsed": true
   },
-  "active": "f63c3181350b6353",
+  "active": "1fc9b4f157c85e36",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Зелень.md",
-    "Антинутриенты Фитин фитиновая кислота.md",
-    "Жир.md",
+    "Вздутие.md",
+    "СИБР SIBO.md",
     "FODMAP.md",
-    "Витамины.md",
-    "Желудок.md",
-    "Изжога.md",
-    "Психосоматика.md",
-    "Расстройства.md"
+    "Желчь Желочный.md",
+    "Витамины и минералы.md",
+    "Продукты. Хранение.md",
+    "Продукты.md",
+    "Жир.md",
+    "Энергия - Движение.md",
+    "Гликемический индекс ГИ.md"
   ]
 }
