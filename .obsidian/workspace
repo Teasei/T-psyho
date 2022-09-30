@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc9b4f157c85e36",
+        "id": "81e7719a4bf376cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Желчь Желочный.md",
+            "file": "Анализы.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "вздут",
-                "matchingCase": true,
+                "query": "желч",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 243.5
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Желчь Желочный.md",
+                "file": "Анализы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Желчь Желочный.md"
+                "file": "Анализы.md"
               }
             }
           },
@@ -131,31 +131,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Желчь Желочный.md",
+                "file": "Анализы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 197,
+    "width": 179.5,
     "collapsed": true
   },
-  "active": "1fc9b4f157c85e36",
+  "active": "81e7719a4bf376cb",
   "lastOpenFiles": [
-    "Вздутие.md",
-    "СИБР SIBO.md",
-    "FODMAP.md",
+    "Висцеральный самомассаж.md",
     "Желчь Желочный.md",
     "Витамины и минералы.md",
-    "Продукты. Хранение.md",
-    "Продукты.md",
-    "Жир.md",
-    "Энергия - Движение.md",
-    "Гликемический индекс ГИ.md"
+    "Витамин Д.md",
+    "Анализы.md",
+    "Щитовидная железа ЩЖ.md",
+    "посуда.md",
+    "Медитация.md",
+    "Селезенка.md",
+    "Files/massage_visceral-pancreas_00.png"
   ]
 }
