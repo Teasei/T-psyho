@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "81e7719a4bf376cb",
+        "id": "3f7ea0d344a75a1e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Анализы.md",
+            "file": "Висцеральный самомассаж.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "желч",
-                "matchingCase": false,
+                "query": "клетчатка",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 245.5
   },
   "right": {
     "id": "e0cd5dc8d692a4a5",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Анализы.md",
+                "file": "Висцеральный самомассаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анализы.md"
+                "file": "Висцеральный самомассаж.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Анализы.md",
+                "file": "Висцеральный самомассаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +145,17 @@
     "width": 179.5,
     "collapsed": true
   },
-  "active": "81e7719a4bf376cb",
+  "active": "3f7ea0d344a75a1e",
   "lastOpenFiles": [
+    "Files/massage_ogulov-technique_10.gif",
     "Висцеральный самомассаж.md",
+    "Files/massage_ogulov-technique_09.gif",
     "Желчь Желочный.md",
+    "Клетчатка.md",
+    "Пищеварене ЖКТ.md",
+    "Анализы. Кала.md",
+    "Template/0 Note template.md",
     "Витамины и минералы.md",
-    "Витамин Д.md",
-    "Анализы.md",
-    "Щитовидная железа ЩЖ.md",
-    "посуда.md",
-    "Медитация.md",
-    "Селезенка.md",
-    "Files/massage_visceral-pancreas_00.png"
+    "Мозг.md"
   ]
 }

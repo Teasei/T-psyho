@@ -4,7 +4,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Base",
   "attachmentFolderPath": "Files",
-  "promptDelete": false,
+  "promptDelete": true,
   "legacyEditor": false,
   "livePreview": true,
   "fileSortOrder": "byModifiedTime",
