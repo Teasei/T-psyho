@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекционные зоны внутренних органов.md",
+                "file": "Чай. Трава.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "стопа",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекционные зоны внутренних органов.md",
+                "file": "Чай. Трава.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекционные зоны внутренних органов.md"
+                "file": "Чай. Трава.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекционные зоны внутренних органов.md",
+                "file": "Чай. Трава.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +177,9 @@
     "width": 179.5,
     "collapsed": true
   },
-  "active": "7a3029ac1d80f630",
+  "active": "cd02e20d1c5eee36",
   "lastOpenFiles": [
+    "Проекционные зоны внутренних органов.md",
     "Продукты.md",
     "Травы и Специи.md",
     "Углеводы.md",
@@ -188,7 +188,6 @@
     "Печень.md",
     "Витамины и минералы.md",
     "Здоровье основыне аспекты.md",
-    "Проекционные зоны внутренних органов.md",
     "Files/acupuncture-tongue.gif"
   ]
 }
