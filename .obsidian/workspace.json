@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чай. Трава.md",
+                "file": "Дофамин.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чай. Трава.md",
+                "file": "Дофамин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чай. Трава.md"
+                "file": "Дофамин.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чай. Трава.md",
+                "file": "Дофамин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +177,17 @@
     "width": 179.5,
     "collapsed": true
   },
-  "active": "cd02e20d1c5eee36",
+  "active": "3f7ea0d344a75a1e",
   "lastOpenFiles": [
+    "Мозг.md",
+    "Дофамин.md",
+    "Чай. Трава.md",
     "Проекционные зоны внутренних органов.md",
     "Продукты.md",
     "Травы и Специи.md",
     "Углеводы.md",
     "Белки.md",
     "Жир.md",
-    "Печень.md",
-    "Витамины и минералы.md",
-    "Здоровье основыне аспекты.md",
-    "Files/acupuncture-tongue.gif"
+    "Печень.md"
   ]
 }
