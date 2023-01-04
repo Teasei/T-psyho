@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f7ea0d344a75a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чай. Трава.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b3d40b1513a6856",
             "type": "leaf",
             "state": {
@@ -32,18 +20,55 @@
             }
           },
           {
-            "id": "ed1bc1aeb6bbef1d",
+            "id": "cebc00c3113c2a37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекционные зоны внутренних органов.md",
+                "file": "FODMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe0eda2bdec285c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Продукты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2593fb1e774eb350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чай. Трава.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456a9b0a933f53b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Висцеральный самомассаж.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -72,8 +97,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Анализы",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чай. Трава.md",
+                "file": "Висцеральный самомассаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чай. Трава.md"
+                "file": "Висцеральный самомассаж.md"
               }
             }
           },
@@ -163,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чай. Трава.md",
+                "file": "Висцеральный самомассаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +215,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3f7ea0d344a75a1e",
+  "active": "456a9b0a933f53b6",
   "lastOpenFiles": [
-    "Анализы.md",
+    "Пищеварене ЖКТ.md",
+    "Витамины и минералы.md",
+    "Мозг. Ритмы.md",
     "Чай. Трава.md",
-    "Углеводы.md",
-    "Медитация.md",
-    "Инсулин ИР.md",
+    "Продукты.md",
+    "FODMAP.md",
     "Проекционные зоны внутренних органов.md",
-    "надпочечники.md",
-    "Минадлина мозга -- Amygdala.md",
-    "Кортизол.md",
-    "БН Блуждающий нерв.md"
+    "Медитация пост.md",
+    "Гипоталамус.md",
+    "Чтение.md"
   ]
 }
