@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Продукты.md",
+                "file": "Здоровье основыне аспекты.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Фрукты",
+                "query": "ккал",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Продукты.md",
+                "file": "Здоровье основыне аспекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Продукты.md"
+                "file": "Здоровье основыне аспекты.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Продукты.md",
+                "file": "Здоровье основыне аспекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,12 +218,12 @@
   },
   "active": "456a9b0a933f53b6",
   "lastOpenFiles": [
-    "Висцеральный самомассаж.md",
     "Пищеварене ЖКТ.md",
+    "Продукты.md",
+    "Висцеральный самомассаж.md",
     "Витамины и минералы.md",
     "Мозг. Ритмы.md",
     "Чай. Трава.md",
-    "Продукты.md",
     "FODMAP.md",
     "Проекционные зоны внутренних органов.md",
     "Медитация пост.md",
