@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Продукты.md",
+                "file": "Решения проблемы.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Здоровье основыне аспекты.md",
+                "file": "Диабет.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ккал",
+                "query": "решения",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,6 +111,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f09397d3440b06b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -135,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Здоровье основыне аспекты.md",
+                "file": "Решения проблемы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Здоровье основыне аспекты.md"
+                "file": "Решения проблемы.md"
               }
             }
           },
@@ -189,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Здоровье основыне аспекты.md",
+                "file": "Решения проблемы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,14 +224,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "456a9b0a933f53b6",
+  "active": "fe0eda2bdec285c0",
   "lastOpenFiles": [
-    "Пищеварене ЖКТ.md",
-    "Продукты.md",
-    "Висцеральный самомассаж.md",
+    "Ассертивность.md",
+    "Здоровье основыне аспекты.md",
     "Витамины и минералы.md",
-    "Мозг. Ритмы.md",
+    "Продукты.md",
+    "Диабет.md",
     "Чай. Трава.md",
+    "Эфирные масла.md",
+    "Пищеварене ЖКТ.md",
+    "Висцеральный самомассаж.md",
+    "Мозг. Ритмы.md",
     "FODMAP.md",
     "Проекционные зоны внутренних органов.md",
     "Медитация пост.md",
