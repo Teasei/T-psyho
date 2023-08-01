@@ -11,8 +11,5 @@
   "foldHeading": true,
   "foldIndent": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ]
+  "spellcheckLanguages": null
 }
