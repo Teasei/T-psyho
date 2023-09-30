@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Психосоматика.md",
+                "file": "Нейрон.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "психосома",
-                "matchingCase": false,
+                "query": "аксон",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Психосоматика.md",
+                "file": "Нейрон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Психосоматика.md"
+                "file": "Нейрон.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Психосоматика.md",
+                "file": "Нейрон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,16 +226,22 @@
   },
   "active": "fe0eda2bdec285c0",
   "lastOpenFiles": [
+    "Files/Pasted image 20230930203937.png",
+    "Миелин.md",
+    "Нейрон.md",
+    "Витамины и минералы.md",
+    "Витамины Б.md",
+    "Витамин Д.md",
+    "Висцеральный самомассаж.md",
+    "Анализы.md",
     "Решения проблемы.md",
     "Ассертивность.md",
     "Здоровье основыне аспекты.md",
-    "Витамины и минералы.md",
     "Продукты.md",
     "Диабет.md",
     "Чай. Трава.md",
     "Эфирные масла.md",
     "Пищеварене ЖКТ.md",
-    "Висцеральный самомассаж.md",
     "Мозг. Ритмы.md",
     "FODMAP.md",
     "Проекционные зоны внутренних органов.md",
